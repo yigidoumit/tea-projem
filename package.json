@@ -1,0 +1,28 @@
+{
+  "name": "teaprojem",
+  "version": "1.0.2",
+  "description": "yigidoumit test project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/yigidoumit/teaprojem.git"
+   },
+    "keywords": [
+    "test",     
+    "proje",
+    "matsh" 
+  ],
+  "dependencies": {
+    "express":"latest",
+    "ejs":"latest"
+  },
+  "author": "yigidoumit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yigidoumit/teaprojem/issues"
+  },
+  "homepage": "https://github.com/yigidoumit/teaprojem#readme"
+}
